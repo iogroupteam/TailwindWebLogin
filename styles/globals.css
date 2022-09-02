@@ -1,0 +1,8 @@
+@tailwind base; 
+@tailwind components; 
+@tailwind utilities;
+
+@font-face {
+    font-family: "dyna";
+    src: url("/fonts/dynapuff.woff") format("woff");
+}
